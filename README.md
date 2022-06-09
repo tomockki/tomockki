@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tomockki
+- 👀 I’m interested in video games, golf, fitness, and more...
+- 🌱 I’m currently learning ... GoogleAppsScript, Python, and English (I can only speaking and reading and listening japanese)
