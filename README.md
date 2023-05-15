@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @tomockki
 - 👀 my interested in video games, golf, fitness, and more...
-- 🌱 I’m currently learning ... GoogleAppsScript, Python, and English (I can only speaking and reading and listening japanese)
+- 🌱 I’m currently learning ... GoogleAppsScript, Python, and English (I can speak,read,and listen japanese only, but I can read a little English.)
+- my vision is develop a system that exceeds customer expectations.
